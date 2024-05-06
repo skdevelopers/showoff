@@ -1,0 +1,102 @@
+
+
+.promo-area p{
+    font-size: 16px;
+    /* color: #000 !important; */
+    font-weight: 600;
+    line-height: 1.7;
+}
+
+/* .promo-area h2{
+    color: #000;
+} */
+
+.bg-yellow {
+    background-color: #f9c123 !important;
+}
+
+
+
+.testimonial-slider--l8 .slick-track
+{
+    display: flex !important;
+}
+
+.testimonial-slider--l8 .slick-slide
+{
+    height: inherit !important;
+}
+
+
+.deal-category-item{
+    border-radius: 10px !important;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    overflow: hidden;
+    background: #eee;
+}
+.deal-category-item .deal-category-img{
+    max-height: 238px;
+    overflow: hidden;
+    object-fit: cover;
+}
+
+
+@media(max-width:650px){
+    .deal-category-item .deal-category-img{
+        max-height: 200px;
+        overflow: hidden;
+        object-fit: cover;
+    }
+}
+
+.deal-category-item .deal-category-content{
+    padding: 20px;
+}
+
+
+.deal-category-item .deal-category-content p{
+    margin-bottom: 0;
+    font-size: 15px;
+}
+
+.bg-blue-ribbon-2{
+    background: #252525;
+    background-color: #252525 !important;
+    box-shadow: 0 20px 20px rgb(37 37 37 / 38%) !important;
+}
+
+.bg-orange {
+    background-color: #ef383f !important;
+    box-shadow: 0 20px 20px #ef383f70 !important;
+}
+
+.bg-torch-red {
+    color: #252525;
+    background-color: #fcdc00 !important;
+    box-shadow: 0 20px 20px rgb(252 220 0 / 23%) !important;
+}
+
+.bg-java-2 {
+    background-color: #767c89 !important;
+    box-shadow: 0 20px 20px #767c8978 !important;
+}
+.card-testimonial--l4 img{
+    height: 240px;
+    object-fit: cover;
+}
+a {
+    color: #ffac00;
+}
+.btn-primary:hover {
+    color: #000;
+    background-color: #fff44b;
+    border-color: #fff44b;
+}
+.btn-primary {
+    color: #000;
+    background-color: #feee00;
+    border-color: #feee00;
+}
