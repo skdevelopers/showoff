@@ -1,0 +1,10 @@
+[
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.dxb.deal.drive",
+    "sha256_cert_fingerprints": ["BC:57:7C:16:7A:A7:18:E4:60:74:A2:7F:20:8B:B3:0D:9B:89:67:97:F7:7B:14:C1:76:F5:85:32:68:A5:CF:BE","A5:BC:C4:41:03:C1:FE:91:08:94:FF:A7:AC:C7:98:F2:9E:9E:A1:5A:64:A2:54:6F:C2:31:51:8B:3F:B3:E9:B4"]
+  }
+}
+]

@@ -1,0 +1,20 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "J69AR6Z6D9.com.app.DealsDriver",
+                "paths": [ "*"]
+            },
+            {
+                "appID": "J69AR6Z6D9.com.dxba.BuildMart",
+                "paths": [ "*"]
+            },
+            {
+                "appID": "J69AR6Z6D9.Noticed.Noticed",
+                "paths": [ "*"]
+            }
+        ]
+    }
+}
+ 

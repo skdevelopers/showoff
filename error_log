@@ -1,0 +1,844 @@
+[04-Aug-2023 04:54:16 UTC] PHP Warning:  require(/home/a2itworld/public_html/home_builder/vendor/autoload.php): Failed to open stream: No such file or directory in /home/a2itworld/public_html/home_builder/artisan on line 18
+[04-Aug-2023 04:54:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/a2itworld/public_html/home_builder/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/a2itworld/public_html/home_builder/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/a2itworld/public_html/home_builder/artisan on line 18
+[09-Nov-2023 07:37:16 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/dxbitprojects/public_html/game_clinic/vendor/composer/platform_check.php on line 24
+[09-Nov-2023 07:37:42 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/dxbitprojects/public_html/game_clinic/vendor/composer/platform_check.php on line 24
+[09-Nov-2023 07:39:21 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/dxbitprojects/public_html/game_clinic/vendor/composer/platform_check.php on line 24
+[09-Nov-2023 07:39:26 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/dxbitprojects/public_html/game_clinic/vendor/composer/platform_check.php on line 24
+[09-Nov-2023 07:39:47 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/dxbitprojects/public_html/game_clinic/vendor/composer/platform_check.php on line 24
+[09-Nov-2023 07:39:50 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/dxbitprojects/public_html/game_clinic/vendor/composer/platform_check.php on line 24
+[09-Nov-2023 07:41:52 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/dxbitprojects/public_html/game_clinic/vendor/composer/platform_check.php on line 24
+[09-Nov-2023 07:42:41 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/dxbitprojects/public_html/game_clinic/vendor/composer/platform_check.php on line 24
+[09-Nov-2023 07:42:42 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/dxbitprojects/public_html/game_clinic/vendor/composer/platform_check.php on line 24
+[09-Nov-2023 07:42:42 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/dxbitprojects/public_html/game_clinic/vendor/composer/platform_check.php on line 24
+[09-Nov-2023 07:42:42 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/dxbitprojects/public_html/game_clinic/vendor/composer/platform_check.php on line 24
+[09-Nov-2023 07:43:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[09-Nov-2023 07:43:56 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[09-Nov-2023 07:44:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[09-Nov-2023 07:44:01 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[09-Nov-2023 07:44:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[09-Nov-2023 07:44:02 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[09-Nov-2023 07:48:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[09-Nov-2023 07:48:27 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[09-Nov-2023 07:48:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[09-Nov-2023 07:48:32 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[09-Nov-2023 07:48:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[09-Nov-2023 07:48:36 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[09-Nov-2023 07:48:37 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[09-Nov-2023 07:48:37 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[09-Nov-2023 07:48:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[09-Nov-2023 07:48:38 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[09-Nov-2023 07:48:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[09-Nov-2023 07:48:48 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[09-Nov-2023 07:48:52 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[09-Nov-2023 07:48:52 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[09-Nov-2023 07:51:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[09-Nov-2023 07:51:55 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[10-Nov-2023 04:42:42 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[10-Nov-2023 04:42:42 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[10-Nov-2023 04:42:49 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[10-Nov-2023 04:42:49 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[10-Nov-2023 04:42:57 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[10-Nov-2023 04:42:57 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Nov-2023 16:34:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Nov-2023 16:34:38 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Nov-2023 16:34:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Nov-2023 16:34:48 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Nov-2023 16:34:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Nov-2023 16:34:56 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Nov-2023 16:35:11 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Nov-2023 16:35:11 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Nov-2023 16:35:16 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Nov-2023 16:35:16 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[24-Nov-2023 06:25:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[24-Nov-2023 06:25:30 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[24-Nov-2023 06:25:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[24-Nov-2023 06:25:34 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[24-Nov-2023 06:25:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[24-Nov-2023 06:25:38 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[24-Nov-2023 06:25:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[24-Nov-2023 06:25:44 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[24-Nov-2023 06:25:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/game_clinic/vendor/psr/log/src/LoggerInterface.php on line 30
+[24-Nov-2023 06:25:48 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:36:17 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 34
+[13-Dec-2023 07:36:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 34
+[13-Dec-2023 07:38:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:38:29 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:38:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:38:32 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:38:47 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:38:47 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:38:47 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:38:47 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:38:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:38:48 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:38:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:38:48 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:38:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:38:48 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:38:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:38:56 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:40:49 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:40:49 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:43:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:43:29 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:44:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:44:13 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:44:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:44:32 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:44:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:44:32 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:45:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:45:04 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:45:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:45:08 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:45:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:45:08 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:45:11 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:45:11 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:45:16 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:45:16 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:45:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:45:22 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:45:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:45:24 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:46:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:46:01 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:46:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:46:39 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:46:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:46:41 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:21 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:23 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:24 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:24 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:24 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:25 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:26 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:26 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:26 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:26 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:26 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:26 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:27 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:27 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:27 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:28 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:28 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:28 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:29 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:29 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:29 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:30 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:31 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:31 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:32 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:34 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:34 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:41 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:43 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:47:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:47:44 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:00 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:01 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:02 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:03 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:03 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:03 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:03 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:04 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:04 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:06 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:06 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:21 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:26 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:27 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:28 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:32 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:33 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:33 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:33 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:33 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:34 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:35 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:35 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:35 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:35 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:35 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:38 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:45 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:54 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:56 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:56 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:57 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:57 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:58 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:59 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:59 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:48:59 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:48:59 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:00 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:00 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:00 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:01 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:21 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:22 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:23 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:24 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:24 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:25 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:25 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:25 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:26 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:26 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:26 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:26 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:26 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:28 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:29 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:32 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:33 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:36 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:37 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:37 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:41 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:42 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:42 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:43 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:43 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:43 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:43 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:44 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:44 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:44 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:45 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:46 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:46 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:48 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:56 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:49:57 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:49:57 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:50:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:50:12 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:50:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:50:13 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:50:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:50:13 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:50:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:50:13 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:50:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:50:13 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:50:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:50:14 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:50:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:50:24 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:50:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:50:34 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:50:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:50:35 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:50:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:50:35 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:50:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:50:35 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:50:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:50:38 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:50:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:50:39 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:50:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:50:40 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:50:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:50:40 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:50:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:50:40 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:50:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:50:40 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:50:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:50:40 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:50:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:50:41 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:50:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:50:48 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:51:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/dealdrive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:51:27 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:51:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/dealdrive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:51:29 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:51:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/dealdrive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:51:30 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:51:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/dealdrive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:51:30 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:51:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/dealdrive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:51:30 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:51:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/dealdrive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:51:30 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:51:49 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:51:49 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:51:50 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:51:50 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:51:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:51:51 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:51:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:51:58 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:51:59 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:51:59 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:52:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:52:39 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:52:50 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:52:50 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:52:50 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:52:50 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:52:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:52:51 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:52:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:52:58 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:53:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:53:01 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:53:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:53:03 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:53:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:53:17 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:53:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:53:33 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:54:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:54:00 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:54:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:54:00 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:55:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:55:02 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:55:07 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:55:07 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:55:15 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:55:15 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:55:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:55:30 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:55:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:55:41 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:56:05 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:56:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:56:10 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:56:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:56:37 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:56:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:56:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:56:51 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:56:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:56:58 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:57:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:57:00 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:57:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:57:00 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:57:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:57:02 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:57:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:57:02 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:57:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:57:02 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:57:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:57:08 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:57:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:57:08 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:57:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:57:09 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:57:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:57:09 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:57:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 07:57:09 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 07:57:12 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:57:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:57:22 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:57:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:58:24 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:58:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:58:25 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:58:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:58:25 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:58:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:58:25 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:58:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:58:26 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:58:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:59:10 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:59:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:59:11 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:59:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:59:11 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:59:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:59:12 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:59:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:59:12 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:59:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:59:12 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:59:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:59:12 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:59:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:59:12 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 07:59:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 08:02:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:02:21 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:02:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:02:22 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:02:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:02:22 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:02:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:02:22 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:02:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:02:23 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:02:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:02:23 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:02:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:02:23 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:02:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:02:23 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:02:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:02:23 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:02:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:02:24 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:02:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:02:24 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:02:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:02:24 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:02:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:02:24 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:02:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:02:25 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:02:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:02:25 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:02:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:02:31 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:02:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:02:35 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:02:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:02:36 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:02:37 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:02:37 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:03:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:03:32 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:05:06 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/dxbitprojects/public_html/deal_drive/vendor/composer/platform_check.php on line 24
+[13-Dec-2023 08:05:07 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/dxbitprojects/public_html/deal_drive/vendor/composer/platform_check.php on line 24
+[13-Dec-2023 08:05:08 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/dxbitprojects/public_html/deal_drive/vendor/composer/platform_check.php on line 24
+[13-Dec-2023 08:05:08 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/dxbitprojects/public_html/deal_drive/vendor/composer/platform_check.php on line 24
+[13-Dec-2023 08:05:08 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/dxbitprojects/public_html/deal_drive/vendor/composer/platform_check.php on line 24
+[13-Dec-2023 08:05:23 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/dxbitprojects/public_html/deal_drive/vendor/composer/platform_check.php on line 24
+[13-Dec-2023 08:07:16 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/dxbitprojects/public_html/deal_drive/vendor/composer/platform_check.php on line 24
+[13-Dec-2023 08:09:52 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:09:52 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:09:53 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:09:53 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:09:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:09:54 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:09:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:09:54 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:09:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:09:54 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:15:35 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/dxbitprojects/public_html/deal_drive/vendor/composer/platform_check.php on line 24
+[13-Dec-2023 08:21:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/nunomaduro/termwind/src/Functions.php on line 17
+[13-Dec-2023 08:21:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/nunomaduro/termwind/src/Functions.php on line 17
+[13-Dec-2023 08:21:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/nunomaduro/termwind/src/Functions.php on line 17
+[13-Dec-2023 08:21:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/nunomaduro/termwind/src/Functions.php on line 17
+[13-Dec-2023 08:21:07 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/nunomaduro/termwind/src/Functions.php on line 17
+[13-Dec-2023 08:23:37 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/nunomaduro/termwind/src/Functions.php on line 17
+[13-Dec-2023 08:23:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/nunomaduro/termwind/src/Functions.php on line 17
+[13-Dec-2023 08:29:38 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/dxbitprojects/public_html/deal_drive/vendor/composer/platform_check.php on line 24
+[13-Dec-2023 08:29:39 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/dxbitprojects/public_html/deal_drive/vendor/composer/platform_check.php on line 24
+[13-Dec-2023 08:29:40 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/dxbitprojects/public_html/deal_drive/vendor/composer/platform_check.php on line 24
+[13-Dec-2023 08:29:40 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/dxbitprojects/public_html/deal_drive/vendor/composer/platform_check.php on line 24
+[13-Dec-2023 08:29:40 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/dxbitprojects/public_html/deal_drive/vendor/composer/platform_check.php on line 24
+[13-Dec-2023 08:29:40 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/dxbitprojects/public_html/deal_drive/vendor/composer/platform_check.php on line 24
+[13-Dec-2023 08:29:41 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/dxbitprojects/public_html/deal_drive/vendor/composer/platform_check.php on line 24
+[13-Dec-2023 08:37:21 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/dxbitprojects/public_html/deal_drive/vendor/composer/platform_check.php on line 24
+[13-Dec-2023 08:37:27 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/dxbitprojects/public_html/deal_drive/vendor/composer/platform_check.php on line 24
+[13-Dec-2023 08:38:42 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:38:42 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:38:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:38:43 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:38:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:38:43 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:38:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:38:43 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:38:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:38:43 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:38:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:38:44 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:38:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:38:45 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:39:18 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:39:18 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:40:59 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:40:59 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:41:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:41:00 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:41:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:41:01 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:41:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:41:01 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:41:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:41:01 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:41:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:41:02 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:41:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:41:02 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:41:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:41:03 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:41:06 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:41:06 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:41:10 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:41:10 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:41:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:41:13 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:41:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:41:14 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:41:43 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 08:41:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 08:41:44 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 08:41:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 08:41:44 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 08:41:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 08:41:44 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 08:41:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 08:41:45 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 08:41:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 08:41:45 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 08:41:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 38
+[13-Dec-2023 08:41:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:41:55 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:41:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:41:55 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:42:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:42:30 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:42:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:42:38 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:42:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:42:39 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:52:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:52:43 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:52:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:52:44 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:52:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:52:45 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:52:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:52:45 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 08:52:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 08:52:45 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 09:01:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 09:01:30 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 09:01:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 09:01:33 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 09:37:50 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 09:37:50 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 09:52:18 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 09:52:18 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 09:52:19 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 09:52:19 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:04:16 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:04:16 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:04:16 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:04:16 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:04:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:04:17 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:04:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:04:17 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:04:18 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:04:18 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:04:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:04:31 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:04:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:04:31 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:04:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:04:32 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:04:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:04:32 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:04:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:04:32 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:04:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:04:33 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:04:58 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/public/index.php on line 34
+[13-Dec-2023 10:04:58 UTC] PHP Fatal error:  require(): Failed opening required '/home/dxbitprojects/public_html/deal_drive/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/public/index.php on line 34
+[13-Dec-2023 10:05:01 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/public/index.php on line 34
+[13-Dec-2023 10:05:01 UTC] PHP Fatal error:  require(): Failed opening required '/home/dxbitprojects/public_html/deal_drive/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/public/index.php on line 34
+[13-Dec-2023 10:05:02 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/public/index.php on line 34
+[13-Dec-2023 10:05:02 UTC] PHP Fatal error:  require(): Failed opening required '/home/dxbitprojects/public_html/deal_drive/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/public/index.php on line 34
+[13-Dec-2023 10:05:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:05:25 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:05:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:05:26 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:05:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:05:26 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:05:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:05:27 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:05:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:05:28 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:05:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:05:28 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:06:16 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:06:16 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:06:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:06:40 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:06:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:06:41 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:11:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:11:22 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:11:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:11:22 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:11:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:11:22 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:11:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:11:23 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:11:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:11:23 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:11:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:11:23 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 10:37:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 10:37:09 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:12:47 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:12:47 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:12:47 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:12:47 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:12:52 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:12:52 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:13:06 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:13:06 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:13:37 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:13:37 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:13:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:13:38 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:13:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:13:38 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:13:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:13:39 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:13:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:13:39 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:14:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:14:25 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:14:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:14:26 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:14:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:14:26 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:14:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:14:27 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:14:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:14:27 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:14:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:14:27 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:14:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:14:54 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:14:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:14:55 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:14:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:14:55 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:14:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:14:55 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:14:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:14:55 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:15:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:15:36 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:17:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:17:58 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:18:16 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:18:16 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 11:19:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:19:13 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 12:23:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 12:23:21 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 12:23:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 12:23:24 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 16:02:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 16:02:45 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 16:02:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 16:02:48 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[28-Feb-2024 06:26:24 UTC] PHP Warning:  Undefined variable $conn in /home/dxbitprojects/public_html/deal_drive/index.php on line 2
+[28-Feb-2024 06:26:24 UTC] PHP Fatal error:  Uncaught TypeError: pg_query(): Argument #1 ($connection) must be of type PgSql\Connection, null given in /home/dxbitprojects/public_html/deal_drive/index.php:2
+Stack trace:
+#0 /home/dxbitprojects/public_html/deal_drive/index.php(2): pg_query(NULL, 'SELECT * FROM t...')
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 2
+[28-Feb-2024 06:27:57 UTC] PHP Warning:  Undefined variable $conn in /home/dxbitprojects/public_html/deal_drive/index.php on line 2
+[28-Feb-2024 06:27:57 UTC] PHP Fatal error:  Uncaught TypeError: pg_query(): Argument #1 ($connection) must be of type PgSql\Connection, null given in /home/dxbitprojects/public_html/deal_drive/index.php:2
+Stack trace:
+#0 /home/dxbitprojects/public_html/deal_drive/index.php(2): pg_query(NULL, 'SELECT * FROM t...')
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 2
+[28-Feb-2024 06:29:40 UTC] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;tesimonial&quot; does not exist
+LINE 1: SELECT * FROM tesimonial
+                      ^ in /home/dxbitprojects/public_html/deal_drive/index.php on line 4
+[28-Feb-2024 06:29:40 UTC] PHP Fatal error:  Uncaught TypeError: pg_num_rows(): Argument #1 ($result) must be of type PgSql\Result, bool given in /home/dxbitprojects/public_html/deal_drive/index.php:5
+Stack trace:
+#0 /home/dxbitprojects/public_html/deal_drive/index.php(5): pg_num_rows(false)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 5
+[28-Feb-2024 06:29:42 UTC] PHP Warning:  pg_query(): Query failed: ERROR:  relation &quot;tesimonial&quot; does not exist
+LINE 1: SELECT * FROM tesimonial
+                      ^ in /home/dxbitprojects/public_html/deal_drive/index.php on line 4
+[28-Feb-2024 06:29:42 UTC] PHP Fatal error:  Uncaught TypeError: pg_num_rows(): Argument #1 ($result) must be of type PgSql\Result, bool given in /home/dxbitprojects/public_html/deal_drive/index.php:5
+Stack trace:
+#0 /home/dxbitprojects/public_html/deal_drive/index.php(5): pg_num_rows(false)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/index.php on line 5
+[23-Mar-2024 04:51:28 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/dealsdrive/public_html/vendor/composer/platform_check.php on line 28
