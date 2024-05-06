@@ -1,0 +1,28 @@
+.navbar .dropdown-toggle::after {
+    display: none;
+}
+.testimonial-sec.dark-overlay::after{
+    opacity: 0.7;
+}
+@media (min-width: 1200px){
+    .search-select-input .form-control {
+        padding-left: 175px;
+    }
+}
+.serv-icon{
+    max-width: 100%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.our-service-sec .currency-lab{
+    font-size: 12px;
+}
+.menu-label {
+    background: #f7e9ff;
+}
+.register-form .profile-pic{
+    
+}

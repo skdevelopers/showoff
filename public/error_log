@@ -1,0 +1,39 @@
+[29-Oct-2022 06:58:47 UTC] PHP Fatal error:  Cannot declare class App\Console\Commands\SendVerificationEmail, because the name is already in use in /home/jarsite/public_html/moda/app/Console/Commands/SendRegEmail.php on line 6
+[29-Oct-2022 06:59:52 UTC] PHP Fatal error:  Cannot declare class App\Console\Commands\SendVerificationEmail, because the name is already in use in /home/jarsite/public_html/moda/app/Console/Commands/SendRegEmail.php on line 6
+[29-Oct-2022 06:59:52 UTC] PHP Fatal error:  Cannot declare class App\Console\Commands\SendVerificationEmail, because the name is already in use in /home/jarsite/public_html/moda/app/Console/Commands/SendRegEmail.php on line 6
+[29-Oct-2022 07:03:42 UTC] PHP Fatal error:  Cannot declare class App\Console\Commands\SendVerificationEmail, because the name is already in use in /home/jarsite/public_html/moda/app/Console/Commands/SendRegEmail.php on line 6
+[29-Oct-2022 07:03:49 UTC] PHP Fatal error:  Cannot declare class App\Console\Commands\SendVerificationEmail, because the name is already in use in /home/jarsite/public_html/moda/app/Console/Commands/SendRegEmail.php on line 6
+[29-Oct-2022 07:03:49 UTC] PHP Fatal error:  Cannot declare class App\Console\Commands\SendVerificationEmail, because the name is already in use in /home/jarsite/public_html/moda/app/Console/Commands/SendRegEmail.php on line 6
+[29-Oct-2022 07:04:51 UTC] PHP Fatal error:  Cannot declare class App\Console\Commands\SendVerificationEmail, because the name is already in use in /home/jarsite/public_html/moda/app/Console/Commands/SendRegEmail.php on line 6
+[13-Dec-2023 07:27:52 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/public/index.php on line 34
+[13-Dec-2023 07:27:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/public/index.php on line 34
+[13-Dec-2023 07:27:54 UTC] PHP Warning:  require(/home/dxbitprojects/public_html/deal_drive/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/dxbitprojects/public_html/deal_drive/public/index.php on line 34
+[13-Dec-2023 07:27:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dxbitprojects/public_html/deal_drive/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/dxbitprojects/public_html/deal_drive/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/deal_drive/public/index.php on line 34
+[13-Dec-2023 11:12:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 11:12:44 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 12:23:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 12:23:29 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 12:23:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 12:23:32 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 12:23:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 12:23:33 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 12:23:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 12:23:34 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 12:23:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 12:23:34 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 12:23:50 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 12:23:50 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 12:24:16 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 12:24:16 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 12:24:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 12:24:40 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 12:25:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 12:25:26 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Dec-2023 12:25:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dxbitprojects/public_html/deal_drive/vendor/psr/log/src/LoggerInterface.php on line 30
+[13-Dec-2023 12:25:55 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
